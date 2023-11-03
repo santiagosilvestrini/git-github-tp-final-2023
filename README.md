@@ -1,4 +1,4 @@
-![Logo](https://www.austral.edu.ar/wp-content/themes/ua/img/logo.png?2)
+![Logo](https://www.austral.edu.ar/wp-content/uploads/2022/09/logo-md-austral-1.png?x63752)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -24,7 +24,7 @@
 - [ ] [Assis, Amir]()
 - [ ] [Bakker, Ingmar]()
 - [ ] [Batista, Felipe José]()
-- [ ] [Bellerate, Jorge Daniel]()
+- [x] [Bellerate, Jorge Daniel](https://github.com/pipolag22/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Bieri, Facundo Martín]()
 - [ ] [Borghi, Santiago]()
 - [ ] [Brandellero Izurieta, Ezequiel]()
