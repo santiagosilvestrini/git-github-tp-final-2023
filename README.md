@@ -70,7 +70,7 @@
 - [ ] [Rodriguez, Geronimo]()
 - [ ] [Saglione, Juan José]()
 - [ ] [Serafin, Emilia]()
-- [ ] [Suaya, Alvaro]()
+- [x] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
 - [ ] [Torres, Gaspar Andrés]()
