@@ -1,4 +1,4 @@
-![Logo](https://www.austral.edu.ar/wp-content/themes/ua/img/logo.png?2)
+![Logo](https://www.austral.edu.ar/wp-content/uploads/2022/09/logo-md-austral-1.png?x63752)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
