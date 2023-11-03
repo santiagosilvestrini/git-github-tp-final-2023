@@ -63,7 +63,7 @@
 - [ ] [Pereira Yost, Claudio Román]()
 - [ ] [Pilot, Luciano]()
 - [ ] [Prieto, Lucila]()
-- [ ] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-20233)
+- [ ] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-2023)
 - [ ] [Quiroga, Martin Marcelo]()
 - [ ] [Razovich, Sebastián Leandro]()
 - [ ] [Robledo, Jonatan Francisco]()
