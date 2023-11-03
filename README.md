@@ -29,7 +29,7 @@
 - [ ] [Borghi, Santiago]()
 - [ ] [Brandellero Izurieta, Ezequiel]()
 - [ ] [Canton, Evelyn Roxana]()
-- [ ] [Capoulat, Joaquín]()
+- [Joaquin Capoulat] [Capoulat, Joaquín](https://github.com/Joaquin274)
 - [ ] [Caruso, Matias Ezequiel]()
 - [ ] [Carvi, Pedro Ignacio]()
 - [ ] [Comparada, Sebastián]()
