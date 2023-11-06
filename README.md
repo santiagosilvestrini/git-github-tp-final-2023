@@ -40,7 +40,7 @@
 - [ ] [Escalada, Augusto]()
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
-- [ ] [Gainza, Manuel]()
+- [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Gandossini, Lucas Matías]()
 - [ ] [Garay, Alfonso Martín]()
 - [ ] [Germi, Micaela]()
