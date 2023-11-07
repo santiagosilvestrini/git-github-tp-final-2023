@@ -43,7 +43,7 @@
 - [ ] [Gainza, Manuel]()
 - [ ] [Gandossini, Lucas Matías]()
 - [ ] [Garay, Alfonso Martín]()
-- [ ] [Germi, Micaela]()
+- [x] [Germi, Micaela](https://github.com/MicaelaGermi04/git-github-tp-final-2023)
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
 - [ ] [Gonzalez Frare, Francisco Carlos]()
 - [ ] [Huergo, Nicolas]()
