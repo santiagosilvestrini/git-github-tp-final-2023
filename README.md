@@ -37,7 +37,7 @@
 - [ ] [Curvelo Ferrer, Thomas]()
 - [ ] [De la Peña, Alvaro]()
 - [ ] [Di Terlizzi, Bruno]()
-- [ ] [Escalada, Augusto]()
+- [x] [Escalada, Augusto](https://github.com/AugustoEscalada/git-github-tp-final-2023)
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
 - [ ] [Gainza, Manuel]()
