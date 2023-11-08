@@ -70,7 +70,7 @@
 - [ ] [Rodriguez, Geronimo]()
 - [ ] [Saglione, Juan José]()
 - [ ] [Serafin, Emilia]()
-- [x] [Suaya, Alvaro]()
+- [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023)
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
 - [ ] [Torres, Gaspar Andrés]()
