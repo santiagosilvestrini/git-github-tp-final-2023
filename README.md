@@ -6,13 +6,13 @@
 
 ## Instrucciones:
 
-- [ ] *Forkear* este repositorio (rama `development`)
+- [ ] _Forkear_ este repositorio (rama `development`)
 - [ ] Clonar el Repo forkeado por ustedes en sus computadoras personales
 - [ ] Crear una rama llamada `trabajo-final`.
 - [ ] Editar el archivo `README.md`. Tilden su nombre en la lista de estudiantes e incluyan un link a su Repositorio (ver ejemplo con mi nombre)
 - [ ] Subir la rama creada y sus cambios a su propio Repositorio remoto.
-- [ ] Ir al [repositorio original](https://github.com/santiagosilvestrini/git-github-tp-final-2023) y crear un nuevo *Issue*, con un título y descripción significativa. 
-- [ ] Abrir un `Pull Request` para subir sus cambios a este repositorio, referenciando al *Issue* creado por ustedes en el punto anterior. Seguir el ciclo hasta que el PR sea aceptado.
+- [ ] Ir al [repositorio original](https://github.com/santiagosilvestrini/git-github-tp-final-2023) y crear un nuevo _Issue_, con un título y descripción significativa.
+- [ ] Abrir un `Pull Request` para subir sus cambios a este repositorio, referenciando al _Issue_ creado por ustedes en el punto anterior. Seguir el ciclo hasta que el PR sea aceptado.
 
 > IMPORTANTE: Para que el TP se considere aprobado sus nombres deben aparecer en el `README.md` de la rama `main`. La rama `development` se fusionará con `main` el **Sábado 11 de Noviembre de 2023 a las 23:59hs**, por lo que sus `Pull Request` deberán haber sido aprobados antes de esa fecha.
 
@@ -31,7 +31,7 @@
 - [ ] [Canton, Evelyn Roxana]()
 - [ ] [Capoulat, Joaquín]()
 - [ ] [Caruso, Matias Ezequiel]()
-- [ ] [Carvi, Pedro Ignacio]()
+- [x] [Carvi, Pedro Ignacio](https://github.com/pedrocarvi/git-github-tp-final-2023)
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
 - [ ] [Curvelo Ferrer, Thomas]()
