@@ -28,7 +28,7 @@
 - [ ] [Bieri, Facundo Martín]()
 - [ ] [Borghi, Santiago]()
 - [ ] [Brandellero Izurieta, Ezequiel]()
-- [x] [Canton, Evelyn Roxana](https://github.com/EveCanton/git-github-tp-final-2023.git)
+- [x] [Canton, Evelyn Roxana](https://github.com/EveCanton/git-github-tp-final-2023)
 - [ ] [Capoulat, Joaquín]()
 - [ ] [Caruso, Matias Ezequiel]()
 - [ ] [Carvi, Pedro Ignacio]()
