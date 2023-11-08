@@ -45,7 +45,7 @@
 - [ ] [Garay, Alfonso Martín]()
 - [ ] [Germi, Micaela]()
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
-- [ ] [Gonzalez Frare, Francisco Carlos]()
+- [X] [Gonzalez Frare, Francisco Carlos](https://github.com/technicolo/git-github-tp-final-2023)
 - [ ] [Huergo, Nicolas]()
 - [ ] [Intelángelo Pascual, Nicolás]()
 - [ ] [Leal Bonacci, Brenda Damaris]()
