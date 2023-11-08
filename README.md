@@ -68,7 +68,7 @@
 - [ ] [Razovich, Sebastián Leandro]()
 - [ ] [Robledo, Jonatan Francisco]()
 - [ ] [Rodriguez, Geronimo]()
-- [ ] [Saglione, Juan José]()
+- [x] [Saglione, Juan José](https://github.com/JuanSaglione/git-github-tp-final-2023.git)
 - [ ] [Serafin, Emilia]()
 - [ ] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
