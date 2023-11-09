@@ -48,7 +48,7 @@
 - [ ] [Gonzalez Frare, Francisco Carlos]()
 - [ ] [Huergo, Nicolas]()
 - [ ] [Intelángelo Pascual, Nicolás]()
-- [ ] [Leal Bonacci, Brenda Damaris]()
+- [x] [Leal Bonacci, Brenda Damaris](https://github.com/blealbonacci/git-github-tp-final-2023)
 - [ ] [Lombardo, Maria Florencia]()
 - [ ] [López López, Mauricio Alonso]()
 - [ ] [López, Luciana]()
