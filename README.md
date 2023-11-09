@@ -69,7 +69,7 @@
 - [ ] [Robledo, Jonatan Francisco]()
 - [ ] [Rodriguez, Geronimo]()
 - [ ] [Saglione, Juan José]()
-- [x] [Serafin, Emilia]()
+- [x] [Serafin, Emilia](https://github.com/emiliaserafin1/git-github-tp-final-2023)
 - [ ] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
