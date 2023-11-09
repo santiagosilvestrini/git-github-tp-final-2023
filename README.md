@@ -46,7 +46,7 @@
 - [ ] [Germi, Micaela]()
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
 - [ ] [Gonzalez Frare, Francisco Carlos]()
-- [ ] [Huergo, Nicolas]()
+- [x] [Huergo, Nicolas](https://github.com/nhuergop/git-github-tp-final-2023.git)
 - [ ] [Intelángelo Pascual, Nicolás]()
 - [ ] [Leal Bonacci, Brenda Damaris]()
 - [ ] [Lombardo, Maria Florencia]()
