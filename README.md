@@ -69,7 +69,7 @@
 - [ ] [Robledo, Jonatan Francisco]()
 - [ ] [Rodriguez, Geronimo]()
 - [ ] [Saglione, Juan José]()
-- [ ] [Serafin, Emilia]()
+- [x] [Serafin, Emilia]()
 - [ ] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
