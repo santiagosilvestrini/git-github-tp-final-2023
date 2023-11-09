@@ -30,7 +30,7 @@
 - [ ] [Brandellero Izurieta, Ezequiel]()
 - [ ] [Canton, Evelyn Roxana]()
 - [ ] [Capoulat, Joaquín]()
-- [ ] [Caruso, Matias Ezequiel]()
+- [x] [Caruso, Matias Ezequiel](https://github.com/ezepachi/git-github-tp-final-2023)
 - [ ] [Carvi, Pedro Ignacio]()
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
