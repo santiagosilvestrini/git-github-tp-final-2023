@@ -38,7 +38,7 @@
 - [ ] [De la Peña, Alvaro]()
 - [ ] [Di Terlizzi, Bruno]()
 - [ ] [Escalada, Augusto]()
-- [ ] [Favoni, Lautaro Julíán]()
+- [x] [Favoni, Lautaro Julíán](https://github.com/LautaroFavoni/git-github-tp-final-2023.git)
 - [ ] [Ferreyra, Nicolás Marino]()
 - [ ] [Gainza, Manuel]()
 - [ ] [Gandossini, Lucas Matías]()
