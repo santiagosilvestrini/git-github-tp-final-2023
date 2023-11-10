@@ -34,7 +34,7 @@
 - [ ] [Carvi, Pedro Ignacio]()
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
-- [ ] [Curvelo Ferrer, Thomas]()
+- [x] [Curvelo Ferrer, Thomas](https://github.com/Thomicurve/git-github-tp-final-2023)
 - [ ] [De la Peña, Alvaro]()
 - [ ] [Di Terlizzi, Bruno]()
 - [ ] [Escalada, Augusto]()
