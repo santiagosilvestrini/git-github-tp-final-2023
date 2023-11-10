@@ -73,7 +73,7 @@
 - [ ] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
-- [ ] [Torres, Gaspar Andrés]()
+- [x] [Torres, Gaspar Andrés]()
 - [ ] [Torres, Lorenzo Franco]()
 - [ ] [Valenti, Dino]()
 - [ ] [Veiga, Felipe]()
