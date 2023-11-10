@@ -71,7 +71,7 @@
 - [ ] [Saglione, Juan José]()
 - [ ] [Serafin, Emilia]()
 - [ ] [Suaya, Alvaro]()
-- [ ] [Tempone, Mauricio Nicolás]()
+- [x] [Tempone, Mauricio Nicolás](https://github.com/mauritempo?tab=repositories)
 - [ ] [Tentegui, Gustavo Angel]()
 - [ ] [Torres, Gaspar Andrés]()
 - [ ] [Torres, Lorenzo Franco]()
