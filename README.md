@@ -74,7 +74,7 @@
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
 - [ ] [Torres, Gaspar Andrés]()
-- [ ] [Torres, Lorenzo Franco]()
+- [x] [Torres, Lorenzo Franco]()
 - [ ] [Valenti, Dino]()
 - [ ] [Veiga, Felipe]()
 - [ ] [Vergara, Pedro]()
