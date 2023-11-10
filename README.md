@@ -78,5 +78,5 @@
 - [ ] [Valenti, Dino]()
 - [ ] [Veiga, Felipe]()
 - [ ] [Vergara, Pedro]()
-- [ ] [Virgili, Joaquín]()
+- [x] [Virgili, Joaquín]()
 - [ ] [Vittone, María Ángeles]()
