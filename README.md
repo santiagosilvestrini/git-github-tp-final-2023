@@ -51,7 +51,7 @@
 - [ ] [Leal Bonacci, Brenda Damaris]()
 - [ ] [Lombardo, Maria Florencia]()
 - [ ] [López López, Mauricio Alonso]()
-- [ ] [López, Luciana]()
+- [x] [López, Luciana](https://github.com/lulilowpez/git-github-tp-final-2023)
 - [ ] [Madrid Herrera, Rodrigo]()
 - [ ] [Mariani, Adonai]()
 - [ ] [Mariani, Franco]()
