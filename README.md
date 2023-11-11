@@ -56,7 +56,7 @@
 - [ ] [Mariani, Adonai]()
 - [ ] [Mariani, Franco]()
 - [ ] [Marquez Rojas, Sebastian]()
-- [ ] [Martínez, Joaquín]()
+- [x] [Martínez, Joaquín]()
 - [ ] [Mattio, Victor Hugo]()
 - [ ] [Meirone, Joaquín]()
 - [ ] [Morichi Righi, Manuel]()
