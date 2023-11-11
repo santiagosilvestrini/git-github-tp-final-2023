@@ -41,7 +41,7 @@
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
 - [ ] [Gainza, Manuel]()
-- [ ] [Gandossini, Lucas Matías]()
+- [x] [Gandossini, Lucas Matías](https://github.com/lucasgando/git-github-fork-lucasg)
 - [ ] [Garay, Alfonso Martín]()
 - [ ] [Germi, Micaela]()
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
