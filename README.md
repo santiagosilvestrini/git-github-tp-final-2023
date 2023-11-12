@@ -32,7 +32,7 @@
 - [ ] [Capoulat, Joaquín]()
 - [ ] [Caruso, Matias Ezequiel]()
 - [ ] [Carvi, Pedro Ignacio]()
-- [ ] [Comparada, Sebastián]()
+- [x] [Comparada, Sebastián](https://github.com/SebastianComparada/git-github-tp-final-2023.git)
 - [ ] [Cuenca, Juan Lucas]()
 - [ ] [Curvelo Ferrer, Thomas]()
 - [ ] [De la Peña, Alvaro]()
