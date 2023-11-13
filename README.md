@@ -22,7 +22,7 @@
 - [x] [Ahumada, Brenda](https://github.com/brendaahumada/git-github-tp-final-2023)
 - [ ] [Aronson, Gabriel]()
 - [x] [Assis, Amir](https://github.com/Amir448868/git-github-tp-final-2023)
-- [ ] [Bakker, Ingmar]()
+- [x] [Bakker, Ingmar](https://github.com/Ingbakk16/git-github-tp-final-2023.git)
 - [x] [Batista, Felipe José](https://github.com/felibatista/git-github-tp-final-2023)
 - [ ] [Bellerate, Jorge Daniel]()
 - [ ] [Bieri, Facundo Martín]()
