@@ -35,7 +35,7 @@
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
 - [ ] [Curvelo Ferrer, Thomas]()
-- [ ] [De la Peña, Alvaro]()
+- [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
 - [ ] [Di Terlizzi, Bruno]()
 - [ ] [Escalada, Augusto]()
 - [ ] [Favoni, Lautaro Julíán]()
