@@ -19,7 +19,7 @@
 ## Estudiantes:
 
 - [x] [Silvestrini, Santiago](https://github.com/santiagosilvestrini/git-github-tp-final-2023)
-- [x ] [Ahumada, Brenda](https://github.com/brendaahumada)
+- [x] [Ahumada, Brenda](https://github.com/brendaahumada/git-github-tp-final-2023)
 - [ ] [Aronson, Gabriel]()
 - [ ] [Assis, Amir]()
 - [ ] [Bakker, Ingmar]()
