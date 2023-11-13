@@ -58,7 +58,7 @@
 - [ ] [Marquez Rojas, Sebastian]()
 - [ ] [Martínez, Joaquín]()
 - [ ] [Mattio, Victor Hugo]()
-- [ ] [Meirone, Joaquín]()
+- [x] [Meirone, Joaquín](https://github.com/JoakoMeirone72/git-github-tp-final-2023)
 - [ ] [Morichi Righi, Manuel]()
 - [ ] [Pereira Yost, Claudio Román]()
 - [ ] [Pilot, Luciano]()
