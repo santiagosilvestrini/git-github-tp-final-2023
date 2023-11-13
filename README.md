@@ -36,7 +36,7 @@
 - [ ] [Cuenca, Juan Lucas]()
 - [ ] [Curvelo Ferrer, Thomas]()
 - [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
-- [ ] [Di Terlizzi, Bruno]()
+- [x] [Di Terlizzi, Bruno](https://github.com/brunoDiter/git-github-tp-final-2023)
 - [ ] [Escalada, Augusto]()
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
