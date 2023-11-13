@@ -60,7 +60,7 @@
 - [ ] [Mattio, Victor Hugo]()
 - [x] [Meirone, Joaquín](https://github.com/JoakoMeirone72/git-github-tp-final-2023)
 - [ ] [Morichi Righi, Manuel]()
-- [ ] [Pereira Yost, Claudio Román]()
+- [x] [Pereira Yost, Claudio Román](https://github.com/Romanx91/git-github-tp-final-2023)
 - [ ] [Pilot, Luciano]()
 - [ ] [Prieto, Lucila]()
 - [x] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-2023)
