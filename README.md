@@ -6,24 +6,24 @@
 
 ## Instrucciones:
 
-- [ ] *Forkear* este repositorio (rama `development`)
+- [ ] _Forkear_ este repositorio (rama `development`)
 - [ ] Clonar el Repo forkeado por ustedes en sus computadoras personales
 - [ ] Crear una rama llamada `trabajo-final`.
 - [ ] Editar el archivo `README.md`. Tilden su nombre en la lista de estudiantes e incluyan un link a su Repositorio (ver ejemplo con mi nombre)
 - [ ] Subir la rama creada y sus cambios a su propio Repositorio remoto.
-- [ ] Ir al [repositorio original](https://github.com/santiagosilvestrini/git-github-tp-final-2023) y crear un nuevo *Issue*, con un título y descripción significativa. 
-- [ ] Abrir un `Pull Request` para subir sus cambios a este repositorio, referenciando al *Issue* creado por ustedes en el punto anterior. Seguir el ciclo hasta que el PR sea aceptado.
+- [ ] Ir al [repositorio original](https://github.com/santiagosilvestrini/git-github-tp-final-2023) y crear un nuevo _Issue_, con un título y descripción significativa.
+- [ ] Abrir un `Pull Request` para subir sus cambios a este repositorio, referenciando al _Issue_ creado por ustedes en el punto anterior. Seguir el ciclo hasta que el PR sea aceptado.
 
 > IMPORTANTE: Para que el TP se considere aprobado sus nombres deben aparecer en el `README.md` de la rama `main`. La rama `development` se fusionará con `main` el **Sábado 11 de Noviembre de 2023 a las 23:59hs**, por lo que sus `Pull Request` deberán haber sido aprobados antes de esa fecha.
 
 ## Estudiantes:
 
 - [x] [Silvestrini, Santiago](https://github.com/santiagosilvestrini/git-github-tp-final-2023)
-- [ ] [Ahumada, Brenda]()
+- [x] [Ahumada, Brenda](https://github.com/brendaahumada/git-github-tp-final-2023)
 - [ ] [Aronson, Gabriel]()
 - [ ] [Assis, Amir]()
 - [ ] [Bakker, Ingmar]()
-- [ ] [Batista, Felipe José]()
+- [x] [Batista, Felipe José](https://github.com/felibatista/git-github-tp-final-2023)
 - [ ] [Bellerate, Jorge Daniel]()
 - [ ] [Bieri, Facundo Martín]()
 - [ ] [Borghi, Santiago]()
@@ -35,12 +35,12 @@
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
 - [ ] [Curvelo Ferrer, Thomas]()
-- [ ] [De la Peña, Alvaro]()
-- [ ] [Di Terlizzi, Bruno]()
+- [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
+- [x] [Di Terlizzi, Bruno](https://github.com/brunoDiter/git-github-tp-final-2023)
 - [x] [Escalada, Augusto](https://github.com/AugustoEscalada/git-github-tp-final-2023)
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
-- [ ] [Gainza, Manuel]()
+- [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Gandossini, Lucas Matías]()
 - [ ] [Garay, Alfonso Martín]()
 - [ ] [Germi, Micaela]()
@@ -54,23 +54,23 @@
 - [ ] [López, Luciana]()
 - [ ] [Madrid Herrera, Rodrigo]()
 - [ ] [Mariani, Adonai]()
-- [ ] [Mariani, Franco]()
+- [x] [Mariani, Franco](https://github.com/FrancoMariani1/git-github-tp-final-2023.git)
 - [ ] [Marquez Rojas, Sebastian]()
 - [ ] [Martínez, Joaquín]()
 - [ ] [Mattio, Victor Hugo]()
-- [ ] [Meirone, Joaquín]()
+- [x] [Meirone, Joaquín](https://github.com/JoakoMeirone72/git-github-tp-final-2023)
 - [ ] [Morichi Righi, Manuel]()
 - [ ] [Pereira Yost, Claudio Román]()
 - [ ] [Pilot, Luciano]()
 - [ ] [Prieto, Lucila]()
-- [ ] [Queral, Juan Ignacio]()
+- [x] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-2023)
 - [ ] [Quiroga, Martin Marcelo]()
-- [ ] [Razovich, Sebastián Leandro]()
+- [x] [Razovich, Sebastián Leandro](https://github.com/SebaRazo/git-github-tp-final-2023.git)
 - [ ] [Robledo, Jonatan Francisco]()
-- [ ] [Rodriguez, Geronimo]()
+- [x] [Rodriguez, Geronimo](https://github.com/gerorodriguez/git-github-tp-final-2023)
 - [ ] [Saglione, Juan José]()
 - [ ] [Serafin, Emilia]()
-- [ ] [Suaya, Alvaro]()
+- [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
 - [ ] [Torres, Gaspar Andrés]()
