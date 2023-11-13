@@ -34,7 +34,7 @@
 - [x] [Carvi, Pedro Ignacio](https://github.com/pedrocarvi/git-github-tp-final-2023)
 - [ ] [Comparada, Sebastián]()
 - [ ] [Cuenca, Juan Lucas]()
-- [ ] [Curvelo Ferrer, Thomas]()
+- [x] [Curvelo Ferrer, Thomas](https://github.com/Thomicurve/git-github-tp-final-2023)
 - [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
 - [x] [Di Terlizzi, Bruno](https://github.com/brunoDiter/git-github-tp-final-2023)
 - [x] [Escalada, Augusto](https://github.com/AugustoEscalada/git-github-tp-final-2023)
