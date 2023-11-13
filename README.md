@@ -65,7 +65,7 @@
 - [ ] [Prieto, Lucila]()
 - [x] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-2023)
 - [ ] [Quiroga, Martin Marcelo]()
-- [ ] [Razovich, Sebastián Leandro]()
+- [x] [Razovich, Sebastián Leandro](https://github.com/SebaRazo/git-github-tp-final-2023.git)
 - [ ] [Robledo, Jonatan Francisco]()
 - [x] [Rodriguez, Geronimo](https://github.com/gerorodriguez/git-github-tp-final-2023)
 - [ ] [Saglione, Juan José]()
