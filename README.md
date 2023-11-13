@@ -59,7 +59,7 @@
 - [ ] [Martínez, Joaquín]()
 - [ ] [Mattio, Victor Hugo]()
 - [ ] [Meirone, Joaquín]()
-- [ ] [Morichi Righi, Manuel]()
+- [x] [Morichi Righi, Manuel](https://github.com/manumrighi/git-github-tp-final-2023)
 - [ ] [Pereira Yost, Claudio Román]()
 - [ ] [Pilot, Luciano]()
 - [ ] [Prieto, Lucila]()
