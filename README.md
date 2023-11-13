@@ -56,7 +56,7 @@
 - [ ] [Mariani, Adonai]()
 - [x] [Mariani, Franco](https://github.com/FrancoMariani1/git-github-tp-final-2023.git)
 - [ ] [Marquez Rojas, Sebastian]()
-- [ ] [Martínez, Joaquín]()
+- [x] [Martínez, Joaquín]()
 - [ ] [Mattio, Victor Hugo]()
 - [x] [Meirone, Joaquín](https://github.com/JoakoMeirone72/git-github-tp-final-2023)
 - [ ] [Morichi Righi, Manuel]()
