@@ -43,7 +43,7 @@
 - [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Gandossini, Lucas Matías]()
 - [ ] [Garay, Alfonso Martín]()
-- [ ] [Germi, Micaela]()
+- [x] [Germi, Micaela](https://github.com/MicaelaGermi04/git-github-tp-final-2023)
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
 - [X] [Gonzalez Frare, Francisco Carlos](https://github.com/technicolo/git-github-tp-final-2023)
 - [x] [Huergo, Nicolas](https://github.com/nhuergop/git-github-tp-final-2023.git)
