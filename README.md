@@ -23,7 +23,7 @@
 - [ ] [Aronson, Gabriel]()
 - [ ] [Assis, Amir]()
 - [ ] [Bakker, Ingmar]()
-- [ ] [Batista, Felipe José]()
+- [x] [Batista, Felipe José](https://github.com/felibatista/git-github-tp-final-2023)
 - [ ] [Bellerate, Jorge Daniel]()
 - [ ] [Bieri, Facundo Martín]()
 - [ ] [Borghi, Santiago]()
