@@ -69,7 +69,7 @@
 - [ ] [Robledo, Jonatan Francisco]()
 - [x] [Rodriguez, Geronimo](https://github.com/gerorodriguez/git-github-tp-final-2023
 - [x] [Saglione, Juan José](https://github.com/JuanSaglione/git-github-tp-final-2023.git)
-- [ ] [Serafin, Emilia]()
+- [x] [Serafin, Emilia](https://github.com/emiliaserafin1/git-github-tp-final-2023)
 - [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
