@@ -26,7 +26,7 @@
 - [x] [Batista, Felipe José](https://github.com/felibatista/git-github-tp-final-2023)
 - [ ] [Bellerate, Jorge Daniel]()
 - [ ] [Bieri, Facundo Martín]()
-- [ ] [Borghi, Santiago]()
+- [x] [Borghi, Santiago](https://github.com/SantiagoBorghi/git-github-tp-final-2023)
 - [ ] [Brandellero Izurieta, Ezequiel]()
 - [x] [Canton, Evelyn Roxana](https://github.com/EveCanton/git-github-tp-final-2023)
 - [x] [Capoulat, Joaquín](https://github.com/Joaquin274/git-github-tp-final-2023.git)
