@@ -21,7 +21,7 @@
 - [x] [Silvestrini, Santiago](https://github.com/santiagosilvestrini/git-github-tp-final-2023)
 - [x] [Ahumada, Brenda](https://github.com/brendaahumada/git-github-tp-final-2023)
 - [ ] [Aronson, Gabriel]()
-- [ ] [Assis, Amir]()
+- [x ] [Assis, Amir](https://github.com/Amir448868/git-github-tp-final-2023)
 - [ ] [Bakker, Ingmar]()
 - [x] [Batista, Felipe José](https://github.com/felibatista/git-github-tp-final-2023)
 - [ ] [Bellerate, Jorge Daniel]()
