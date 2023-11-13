@@ -78,5 +78,5 @@
 - [x] [Valenti, Dino](https://github.com/DinoValent/git-github-tp-final-2023#estudiantes)
 - [ ] [Veiga, Felipe]()
 - [ ] [Vergara, Pedro]()
-- [ ] [Virgili, Joaquín]()
+- [x] [Virgili, Joaquín]()
 - [ ] [Vittone, María Ángeles]()
