@@ -37,7 +37,7 @@
 - [ ] [Curvelo Ferrer, Thomas]()
 - [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
 - [x] [Di Terlizzi, Bruno](https://github.com/brunoDiter/git-github-tp-final-2023)
-- [ ] [Escalada, Augusto]()
+- [x] [Escalada, Augusto](https://github.com/AugustoEscalada/git-github-tp-final-2023)
 - [ ] [Favoni, Lautaro Julíán]()
 - [ ] [Ferreyra, Nicolás Marino]()
 - [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
