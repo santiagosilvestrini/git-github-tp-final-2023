@@ -61,7 +61,7 @@
 - [x] [Meirone, Joaquín](https://github.com/JoakoMeirone72/git-github-tp-final-2023)
 - [ ] [Morichi Righi, Manuel]()
 - [x] [Pereira Yost, Claudio Román](https://github.com/Romanx91/git-github-tp-final-2023)
-- [ ] [Pilot, Luciano]()
+- [x] [Pilot, Luciano](https://github.com/LucianoPilot/git-github-tp-final-2023)
 - [ ] [Prieto, Lucila]()
 - [x] [Queral, Juan Ignacio](https://github.com/JuaniQueral/git-github-tp-final-2023)
 - [ ] [Quiroga, Martin Marcelo]()
