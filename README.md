@@ -73,7 +73,7 @@
 - [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Tempone, Mauricio Nicolás]()
 - [ ] [Tentegui, Gustavo Angel]()
-- [ ] [Torres, Gaspar Andrés]()
+- [x] [Torres, Gaspar Andrés]()
 - [ ] [Torres, Lorenzo Franco]()
 - [x] [Valenti, Dino](https://github.com/DinoValent/git-github-tp-final-2023#estudiantes)
 - [ ] [Veiga, Felipe]()
