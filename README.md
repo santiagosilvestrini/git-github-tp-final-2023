@@ -38,7 +38,7 @@
 - [x] [De la Peña, Alvaro](https://github.com/alvarodlp98/git-github-tp-final-2023.git)
 - [x] [Di Terlizzi, Bruno](https://github.com/brunoDiter/git-github-tp-final-2023)
 - [x] [Escalada, Augusto](https://github.com/AugustoEscalada/git-github-tp-final-2023)
-- [ ] [Favoni, Lautaro Julíán]()
+- [x] [Favoni, Lautaro Julíán](https://github.com/LautaroFavoni/git-github-tp-final-2023.git)
 - [ ] [Ferreyra, Nicolás Marino]()
 - [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
 - [ ] [Gandossini, Lucas Matías]()
