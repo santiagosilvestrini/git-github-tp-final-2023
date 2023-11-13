@@ -71,7 +71,7 @@
 - [x] [Saglione, Juan José](https://github.com/JuanSaglione/git-github-tp-final-2023.git)
 - [x] [Serafin, Emilia](https://github.com/emiliaserafin1/git-github-tp-final-2023)
 - [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
-- [ ] [Tempone, Mauricio Nicolás]()
+- [x] [Tempone, Mauricio Nicolás](https://github.com/mauritempo?tab=repositories)
 - [ ] [Tentegui, Gustavo Angel]()
 - [x] [Torres, Gaspar Andrés]()
 - [ ] [Torres, Lorenzo Franco]()
