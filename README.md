@@ -67,7 +67,7 @@
 - [ ] [Quiroga, Martin Marcelo]()
 - [ ] [Razovich, Sebastián Leandro]()
 - [ ] [Robledo, Jonatan Francisco]()
-- [ ] [Rodriguez, Geronimo]()
+- [x] [Rodriguez, Geronimo](https://github.com/gerorodriguez/git-github-tp-final-2023)
 - [ ] [Saglione, Juan José]()
 - [ ] [Serafin, Emilia]()
 - [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
