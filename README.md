@@ -74,7 +74,7 @@
 - [x] [Tempone, Mauricio Nicolás](https://github.com/mauritempo?tab=repositories)
 - [ ] [Tentegui, Gustavo Angel]()
 - [x] [Torres, Gaspar Andrés]()
-- [ ] [Torres, Lorenzo Franco]()
+- [x] [Torres, Lorenzo Franco]()
 - [x] [Valenti, Dino](https://github.com/DinoValent/git-github-tp-final-2023#estudiantes)
 - [ ] [Veiga, Felipe]()
 - [ ] [Vergara, Pedro]()
