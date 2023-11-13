@@ -47,7 +47,7 @@
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
 - [X] [Gonzalez Frare, Francisco Carlos](https://github.com/technicolo/git-github-tp-final-2023)
 - [ ] [Huergo, Nicolas]()
-- [ ] [Intelángelo Pascual, Nicolás]()
+- [x] [Intelángelo Pascual, Nicolás](https://github.com/NicoIntelangelo/git-github-tp-final-2023.git)
 - [ ] [Leal Bonacci, Brenda Damaris]()
 - [ ] [Lombardo, Maria Florencia]()
 - [ ] [López López, Mauricio Alonso]()
