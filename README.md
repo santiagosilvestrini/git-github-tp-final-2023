@@ -53,7 +53,7 @@
 - [ ] [López López, Mauricio Alonso]()
 - [x] [López, Luciana](https://github.com/lulilowpez/git-github-tp-final-2023)
 - [ ] [Madrid Herrera, Rodrigo]()
-- [ ] [Mariani, Adonai]()
+- [x] [Mariani, Adonai](https://github.com/AdonaiMariani/git-github-tp-final-2023.git)
 - [x] [Mariani, Franco](https://github.com/FrancoMariani1/git-github-tp-final-2023.git)
 - [ ] [Marquez Rojas, Sebastian]()
 - [x] [Martínez, Joaquín]()
