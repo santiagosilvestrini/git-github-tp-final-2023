@@ -48,7 +48,7 @@
 - [X] [Gonzalez Frare, Francisco Carlos](https://github.com/technicolo/git-github-tp-final-2023)
 - [ ] [Huergo, Nicolas]()
 - [x] [Intelángelo Pascual, Nicolás](https://github.com/NicoIntelangelo/git-github-tp-final-2023.git)
-- [ ] [Leal Bonacci, Brenda Damaris]()
+- [x] [Leal Bonacci, Brenda Damaris](https://github.com/blealbonacci/git-github-tp-final-2023)
 - [ ] [Lombardo, Maria Florencia]()
 - [ ] [López López, Mauricio Alonso]()
 - [ ] [López, Luciana]()
