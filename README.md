@@ -41,7 +41,7 @@
 - [x] [Favoni, Lautaro Julíán](https://github.com/LautaroFavoni/git-github-tp-final-2023.git)
 - [ ] [Ferreyra, Nicolás Marino]()
 - [x] [Gainza, Manuel](https://github.com/Sallaks/git-github-tp-final-2023/tree/trabajo-final)
-- [ ] [Gandossini, Lucas Matías]()
+- [x] [Gandossini, Lucas Matías](https://github.com/lucasgando/git-github-fork-lucasg)
 - [ ] [Garay, Alfonso Martín]()
 - [x] [Germi, Micaela](https://github.com/MicaelaGermi04/git-github-tp-final-2023)
 - [ ] [Gonzalez Crisci, Lautaro Nadir]()
