@@ -72,7 +72,7 @@
 - [ ] [Serafin, Emilia]()
 - [ ] [Suaya, Alvaro]()
 - [ ] [Tempone, Mauricio Nicolás]()
-- [ ] [Tentegui, Gustavo Angel]()
+- [X] [Tentegui, Gustavo Angel](https://github.com/Tentegui97/git-github-tp-final-2023)
 - [ ] [Torres, Gaspar Andrés]()
 - [ ] [Torres, Lorenzo Franco]()
 - [ ] [Valenti, Dino]()
