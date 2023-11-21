@@ -80,7 +80,7 @@
 - [x] [Serafin, Emilia](https://github.com/emiliaserafin1/git-github-tp-final-2023)
 - [x] [Suaya, Alvaro](https://github.com/Godwit2110/git-github-tp-final-2023/tree/trabajo-final)
 - [x] [Tempone, Mauricio Nicolás](https://github.com/mauritempo?tab=repositories)
-- [ ] [Tentegui, Gustavo Angel]()
+- [x] [Tentegui, Gustavo Angel](https://github.com/Tentegui97/git-github-tp-final-2023)
 - [x] [Torres, Gaspar Andrés]()
 - [x] [Torres, Lorenzo Franco]()
 - [x] [Valenti, Dino](https://github.com/DinoValent/git-github-tp-final-2023#estudiantes)
